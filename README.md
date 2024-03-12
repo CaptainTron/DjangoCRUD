@@ -1,2 +1,2 @@
 # Django CRUD
-Just a normal testing project
+Django CRUD
